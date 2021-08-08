@@ -7,39 +7,39 @@
 </head>
 <body>
 	<style type="text/css">
-	div {
-	    width: 440px;
-	    font-size: 22px;
-	    height: 60px;
-	}
+		div {
+		    width: 440px;
+		    font-size: 22px;
+		    height: 60px;
+		}
 
-	input[type="number"] {
-	    font-size: 16px;
-	}
+		input[type="number"] {
+		    font-size: 16px;
+		}
 
-	select {
-	    font-size: 18px;
-	    
-	}
+		select {
+		    font-size: 18px;
+		    
+		}
 
-	input[type="submit"] {
-	    font-size: 16px;
-	}
-	select.from {
-	    margin-left: 55px;
-	    
-	}
-	select.to {
-	    margin-left: 36px;
-	    
-	}
-	div.frontpagebox {
-    width: 470px;
-    height: 300px;
-    background-color: greenyellow;
-    border: 3px solid red;
-    padding: 20px 20px 20px 50px;
-	}
+		input[type="submit"] {
+		    font-size: 16px;
+		}
+		select.from {
+		    margin-left: 55px;
+		    
+		}
+		select.to {
+		    margin-left: 36px;
+		    
+		}
+		div.frontpagebox {
+	    width: 470px;
+	    height: 300px;
+	    background-color: greenyellow;
+	    border: 3px solid red;
+	    padding: 20px 20px 20px 50px;
+		}
 
 	</style>
 	
