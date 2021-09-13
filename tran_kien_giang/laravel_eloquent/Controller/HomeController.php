@@ -11,9 +11,9 @@ class HomeController extends Controller
     public function home()
     {
         $products = DB::table('shop_products')
-        ->orderBy('sale_off', 'desc')
-        ->orderBy('product_name', 'desc')
-        ->paginate (16);
+            ->orderBy('sale_off', 'desc')
+            ->orderBy('product_name', 'desc')
+            ->paginate (16);
 
         $categories = Category::where('is_public', config('category.public'))
             ->get();
