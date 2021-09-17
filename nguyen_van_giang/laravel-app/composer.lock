@@ -4,7 +4,11 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
     "content-hash": "2a8c340e5d78e003a1e6e53b9e6b15f6",
+=======
+    "content-hash": "6cadd819a6415b190ae2704ced6e6c8b",
+>>>>>>> 9b2b45acf2dc4b09feac8c994eefe2c6a249284f
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -115,6 +119,7 @@
             "time": "2021-08-15T20:50:18+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "composer/package-versions-deprecated",
             "version": "1.11.99.3",
             "source": {
@@ -184,6 +189,8 @@
             "time": "2021-08-17T13:49:14+00:00"
         },
         {
+=======
+>>>>>>> 9b2b45acf2dc4b09feac8c994eefe2c6a249284f
             "name": "dflydev/dot-access-data",
             "version": "v3.0.1",
             "source": {
@@ -255,6 +262,7 @@
             "time": "2021-08-13T13:06:58+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "doctrine/cache",
             "version": "2.1.1",
             "source": {
@@ -584,6 +592,8 @@
             "time": "2020-05-29T18:28:51+00:00"
         },
         {
+=======
+>>>>>>> 9b2b45acf2dc4b09feac8c994eefe2c6a249284f
             "name": "doctrine/inflector",
             "version": "2.0.3",
             "source": {
@@ -5870,6 +5880,7 @@
             "time": "2020-07-09T08:09:16+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "laravel/breeze",
             "version": "v1.3.2",
             "source": {
@@ -5923,6 +5934,8 @@
             "time": "2021-08-03T15:04:47+00:00"
         },
         {
+=======
+>>>>>>> 9b2b45acf2dc4b09feac8c994eefe2c6a249284f
             "name": "laravel/sail",
             "version": "v1.10.0",
             "source": {

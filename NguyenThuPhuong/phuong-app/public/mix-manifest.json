@@ -1,5 +1,6 @@
 {
     "/js/app.js": "/js/app.js",
+<<<<<<< HEAD
     "/css/app.css": "/css/app.css",
     "/vegefoods/css/ajax-loader.gif": "/vegefoods/css/ajax-loader.gif",
     "/vegefoods/css/animate.css": "/vegefoods/css/animate.css",
@@ -33,4 +34,7 @@
     "/vegefoods/js/range.js": "/vegefoods/js/range.js",
     "/vegefoods/js/scrollax.min.js": "/vegefoods/js/scrollax.min.js",
     "/vegefoods/scss/style.scss": "/vegefoods/scss/style.scss"
+=======
+    "/css/app.css": "/css/app.css"
+>>>>>>> 9b2b45acf2dc4b09feac8c994eefe2c6a249284f
 }

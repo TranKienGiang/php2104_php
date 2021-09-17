@@ -1,5 +1,6 @@
 {
     "/js/app.js": "/js/app.js",
+<<<<<<< HEAD
     "/css/app.css": "/css/app.css",
     "/themes/shopper_fashion/about.html": "/themes/shopper_fashion/about.html",
     "/themes/shopper_fashion/cart.html": "/themes/shopper_fashion/cart.html",
@@ -10,4 +11,7 @@
     "/themes/shopper_fashion/shop-single.html": "/themes/shopper_fashion/shop-single.html",
     "/themes/shopper_fashion/shop.html": "/themes/shopper_fashion/shop.html",
     "/themes/shopper_fashion/thankyou.html": "/themes/shopper_fashion/thankyou.html"
+=======
+    "/css/app.css": "/css/app.css"
+>>>>>>> 9b2b45acf2dc4b09feac8c994eefe2c6a249284f
 }

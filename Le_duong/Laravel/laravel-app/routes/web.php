@@ -1,7 +1,11 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+<<<<<<< HEAD
 use Illuminate\Http\Request;
+=======
+
+>>>>>>> 9b2b45acf2dc4b09feac8c994eefe2c6a249284f
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -21,6 +25,7 @@ Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth'])->name('dashboard');
 
+<<<<<<< HEAD
 // Route basic
 Route::get('/admin',function () {
     return "Hello world";
@@ -64,4 +69,6 @@ Route::get('/user/create',function () {
 Route::post('/show',function (Request $request) {
     return view('show',['values'=>$request->all()]);
 })->name('show');
+=======
+>>>>>>> 9b2b45acf2dc4b09feac8c994eefe2c6a249284f
 require __DIR__.'/auth.php';

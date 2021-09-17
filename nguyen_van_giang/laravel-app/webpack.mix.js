@@ -11,6 +11,7 @@ const mix = require('laravel-mix');
  |
  */
 
+<<<<<<< HEAD
 mix.js('resources/js/app.js', 'public/js').postCss('resources/css/app.css', 'public/css', [
     require('postcss-import'),
     require('tailwindcss'),
@@ -18,3 +19,9 @@ mix.js('resources/js/app.js', 'public/js').postCss('resources/css/app.css', 'pub
 ]);
 
 mix.copyDirectory('resources/themes/vegefoods', 'public/themes/vegefoods');
+=======
+mix.js('resources/js/app.js', 'public/js')
+    .postCss('resources/css/app.css', 'public/css', [
+        //
+    ]);
+>>>>>>> 9b2b45acf2dc4b09feac8c994eefe2c6a249284f

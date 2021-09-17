@@ -1,10 +1,13 @@
 /node_modules
 /public/hot
 /public/storage
+<<<<<<< HEAD
 /public/css
 /public/js
 /public/images/
 /public/themes/
+=======
+>>>>>>> 9b2b45acf2dc4b09feac8c994eefe2c6a249284f
 /storage/*.key
 /vendor
 .env
@@ -17,4 +20,7 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+<<<<<<< HEAD
 .DS_Store
+=======
+>>>>>>> 9b2b45acf2dc4b09feac8c994eefe2c6a249284f

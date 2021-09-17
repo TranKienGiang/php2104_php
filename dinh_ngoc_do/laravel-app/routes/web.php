@@ -1,11 +1,15 @@
 <?php
 
+<<<<<<< HEAD
 use App\Http\Controllers\ProductController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Http\Request;
 use PHPUnit\TextUI\XmlConfiguration\CodeCoverage\Report\Php;
 use Illuminate\Support\Facades\View;
 use App\Http\Controllers\ShopController;
+=======
+use Illuminate\Support\Facades\Route;
+>>>>>>> 9b2b45acf2dc4b09feac8c994eefe2c6a249284f
 
 /*
 |--------------------------------------------------------------------------
@@ -27,6 +31,7 @@ Route::get('/dashboard', function () {
 })->middleware(['auth'])->name('dashboard');
 
 require __DIR__.'/auth.php';
+<<<<<<< HEAD
 
 //Route Parameters
 
@@ -103,3 +108,5 @@ Route::get('/shopper_fashion/contact', function () {
 
 
 
+=======
+>>>>>>> 9b2b45acf2dc4b09feac8c994eefe2c6a249284f

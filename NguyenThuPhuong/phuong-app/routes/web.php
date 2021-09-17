@@ -1,9 +1,12 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+<<<<<<< HEAD
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\View;
 use App\Http\Controllers\HomeController;
+=======
+>>>>>>> 9b2b45acf2dc4b09feac8c994eefe2c6a249284f
 
 /*
 |--------------------------------------------------------------------------
@@ -25,6 +28,7 @@ Route::get('/dashboard', function () {
 })->middleware(['auth'])->name('dashboard');
 
 require __DIR__.'/auth.php';
+<<<<<<< HEAD
 
 //route ten hien thi loi chao
 Route::get('/phuong', function () {
@@ -123,3 +127,5 @@ Route::get('/about-ms', function() {
  Route::get('/shop-ms',[HomeController::class, 'shop'])->name('shop-ms');
 
  Route::get('/wishlist-ms', [HomeController::class, 'wishlist'])->name('wishlist-ms');
+=======
+>>>>>>> 9b2b45acf2dc4b09feac8c994eefe2c6a249284f

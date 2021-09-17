@@ -1,10 +1,13 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+<<<<<<< HEAD
 use Illuminate\Http\Request;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\ProductController;
 use App\Http\Controllers\CategoryController;
+=======
+>>>>>>> 9b2b45acf2dc4b09feac8c994eefe2c6a249284f
 
 /*
 |--------------------------------------------------------------------------
@@ -20,6 +23,7 @@ use App\Http\Controllers\CategoryController;
 Route::get('/', function () {
     return view('welcome');
 });
+<<<<<<< HEAD
 
 
 
@@ -69,3 +73,5 @@ Route::get('/categories/{id}', [CategoryController::class, 'index'])->name('cate
 Route::get('/child-page', function() {
     return view('my-directory.child-page');
 })->name('child-page');
+=======
+>>>>>>> 9b2b45acf2dc4b09feac8c994eefe2c6a249284f

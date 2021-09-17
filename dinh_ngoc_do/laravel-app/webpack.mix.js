@@ -16,5 +16,8 @@ mix.js('resources/js/app.js', 'public/js').postCss('resources/css/app.css', 'pub
     require('tailwindcss'),
     require('autoprefixer'),
 ]);
+<<<<<<< HEAD
 
 mix.copyDirectory('resources/themes/shopper_fashion', 'public/themes/shopper_fashion');
+=======
+>>>>>>> 9b2b45acf2dc4b09feac8c994eefe2c6a249284f

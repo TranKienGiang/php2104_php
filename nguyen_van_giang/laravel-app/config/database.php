@@ -3,6 +3,10 @@
 use Illuminate\Support\Str;
 
 return [
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9b2b45acf2dc4b09feac8c994eefe2c6a249284f
     /*
     |--------------------------------------------------------------------------
     | Default Database Connection Name
